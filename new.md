@@ -9,3 +9,6 @@ Here is some regular text
 
 More test.
 This is a test2 case
+
+Test change 3
+help on this test
